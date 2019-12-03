@@ -15,7 +15,8 @@
   "dependencies": {
     "gatsby": "^2.13.12",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "mem": "~> 4.0.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
